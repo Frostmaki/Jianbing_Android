@@ -8,11 +8,13 @@
     <TextView
         android:id="@+id/textInput"
         android:layout_width="match_parent"
+        android:background="#A4D3EE"
         android:layout_height="100dp" />
     
     <TextView
         android:id="@+id/textOnput"
         android:layout_width="match_parent"
+        android:background="#FFA07A"
         android:layout_height="100dp"
          />
         
